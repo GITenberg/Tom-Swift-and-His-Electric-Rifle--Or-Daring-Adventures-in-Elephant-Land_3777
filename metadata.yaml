@@ -1,5 +1,8 @@
 _repo: Tom-Swift-and-His-Electric-Rifle--Or-Daring-Adventures-in-Elephant-Land_3777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Appleton, Victor
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: PRC version is in 10tom10p.prc and 10tom10p.zip
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3777#Tom-Swift-and-His-Electric-Rifle--Or-Daring-Adventures-in-Elephant-Land
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
