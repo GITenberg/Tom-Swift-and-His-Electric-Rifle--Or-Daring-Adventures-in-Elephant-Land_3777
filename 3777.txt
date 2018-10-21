@@ -4938,7 +4938,7 @@ into the jungle. We must swoop down, and get the prisoners!"
 It was no sooner said than the nose of the Black Hawk was pointed
 downward. Onward it flew, the two captives wildly waving their hands
 to the rescuers. There was no more danger from the red savages. They
-had been thrown into panic and confusion, and wore rapidly
+had been thrown into panic and confusion, and were rapidly
 disappearing into the forest. The terrible weapons of the whites had
 been too much for them.
 
@@ -5132,7 +5132,7 @@ German fervently.
 "We'll start at once," declared Tom. "Are you all aboard, and is
 everything loaded into the airship?"
 
-"Everything. I guess." answered Mr. Anderson.
+"Everything, I guess." answered Mr. Anderson.
 
 Tom looked to the motor, saw that it was in working order, and
 shoved over the lever of the gas machine to begin the generating of
